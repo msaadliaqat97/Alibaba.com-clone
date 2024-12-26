@@ -19,9 +19,9 @@
     background-repeat: no-repeat;
     background-position: center;
 
-    /* display: flex; */
+
     min-height: 100vh;
-    /* width: auto; */
+
 
 
 }
@@ -44,9 +44,6 @@
 
 .card-section {
     background-color: #3a190b;
-    /* width: 100%; */
-
-
 }
 
 .card-section2 {
@@ -55,7 +52,6 @@
     min-height: 338px;
     border-radius: 26px;
     padding: 40px 20px;
-    /* width: 276px; */
     text-decoration: none;
 
 }
@@ -278,8 +274,6 @@
 @media (min-width:320px) and (max-width:720px) {
     .type {
         display: inline-flex;
-        /* justify-content: center;
-        align-items: center; */
         flex-direction: row;
         text-align: center;
     }
@@ -334,7 +328,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        /* flex-direction: column; */
     }
 
     .type-1 {
@@ -375,7 +368,6 @@
 
 .text-orange {
     color: #ff6a00;
-    /* Adjust the orange color as per your preference */
 }
 
 .stat-box h3 {
@@ -402,7 +394,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    /* height: 500px; */
     color: white;
     height: 85vh;
     width: 95%;
@@ -415,7 +406,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
-    /* height: 50vh; */
     width: 100%;
     background-position: center;
 }
@@ -425,7 +415,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
-    /* height: 85vh; */
     width: 100%;
     background-position: center;
 }
@@ -456,7 +445,6 @@
 
 .flag-img {
     width: 50px;
-    /* Adjust size based on preference */
     height: 50px;
     object-fit: contain;
     border-radius: 50%;
