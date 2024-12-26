@@ -14,7 +14,7 @@
 }
 
 .main-img {
-    background-image: url('/assets/images/O1CN01ustqhi1Tz44lu4arh_!!6000000002452-0-tps-3840-1248.jpg_q60.webp');
+    background-image: url('../assets/images/O1CN01ustqhi1Tz44lu4arh_!!6000000002452-0-tps-3840-1248.jpg_q60.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -151,7 +151,7 @@
 
 
 .sampal-image {
-    background-image: url(/assets/images/O1CN01Lcuxd21Gs6zkRBFHe_!!6000000000677-2-tps-920-920.webp);
+    background-image: url(../assets/images/O1CN01Lcuxd21Gs6zkRBFHe_!!6000000000677-2-tps-920-920.webp);
     background-size: cover;
     background-repeat: no-repeat;
     height: 350px;
@@ -160,7 +160,7 @@
 }
 
 .sampal-image3 {
-    background-image: url(/assets/images/O1CN01twP5Jv1tjCIiCOQAv_!!6000000005937-2-tps-920-920.jpeg);
+    background-image: url(../assets/images/O1CN01twP5Jv1tjCIiCOQAv_!!6000000005937-2-tps-920-920.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 350px;
@@ -169,7 +169,7 @@
 }
 
 .sampal-image2 {
-    background-image: url(/assets/images/O1CN01blSupV1NpY5ZcwvIj_!!6000000001619-2-tps-920-920.jpeg);
+    background-image: url(../assets/images/O1CN01blSupV1NpY5ZcwvIj_!!6000000001619-2-tps-920-920.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 350px;
@@ -194,14 +194,14 @@
 }
 
 .bg-image {
-    background-image: url(/assets/images/O1CN01ZU454s273tH4l7azv_!!6000000007742-0-tps-3000-1394.jpg_q60.webp);
+    background-image: url(../assets/images/O1CN01ZU454s273tH4l7azv_!!6000000007742-0-tps-3000-1394.jpg_q60.webp);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
 }
 
 .bg-image-2 {
-    background-image: url(/assets/images/O1CN01FaQ37w1Zb91Cymass_!!6000000003212-0-tps-1920-456.jpg_q60.jpg);
+    background-image: url(../assets/images/O1CN01FaQ37w1Zb91Cymass_!!6000000003212-0-tps-1920-456.jpg_q60.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 400px;
@@ -398,7 +398,7 @@
 
 /* missions imsges */
 .bg-mission {
-    background-image: url(/assets/images/O1CN01ZUhAEZ1plFc5piQ6Z_!!6000000005400-0-tps-1408-1200.jpg_q60.jpg);
+    background-image: url(../assets/images/O1CN01ZUhAEZ1plFc5piQ6Z_!!6000000005400-0-tps-1408-1200.jpg_q60.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -411,7 +411,7 @@
 }
 
 .bg-mission-1 {
-    background-image: url(/assets/images/O1CN01AuT5oO1CpaMXEBGOd_!!6000000000130-0-tps-1410-646.jpg_q60.jpg);
+    background-image: url(../assets/images/O1CN01AuT5oO1CpaMXEBGOd_!!6000000000130-0-tps-1410-646.jpg_q60.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
@@ -421,7 +421,7 @@
 }
 
 .bg-mission-2 {
-    background-image: url(/assets/images/O1CN01KXAelN1CWLiBLU7x9_!!6000000000088-0-tps-1408-490.jpg_q60.jpg);
+    background-image: url(../assets/images/O1CN01KXAelN1CWLiBLU7x9_!!6000000000088-0-tps-1408-490.jpg_q60.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
